@@ -1,6 +1,7 @@
 # Calendar App - Group 0248
 * To run the program as a GUI, execute the main() method Main.java
 * To run the console interface (which doesn't have phase 2 features), run consoleui.UserManagerUI.main().
+* This app was created on OpenJDK 1.8 as it has JavaFX by default. If you are on later versions of Java, you may need to install JavaFX manually.
 
 ## Feature List
 * Team-specific feature: togglable dark theme
